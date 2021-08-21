@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/swerve_math_demo/static/css/main.41a05192.chunk.css",
+    "main.js": "/swerve_math_demo/static/js/main.6067e5de.chunk.js",
+    "main.js.map": "/swerve_math_demo/static/js/main.6067e5de.chunk.js.map",
+    "runtime-main.js": "/swerve_math_demo/static/js/runtime-main.7d4d1e1c.js",
+    "runtime-main.js.map": "/swerve_math_demo/static/js/runtime-main.7d4d1e1c.js.map",
+    "static/css/2.86528fd4.chunk.css": "/swerve_math_demo/static/css/2.86528fd4.chunk.css",
+    "static/js/2.0728cefd.chunk.js": "/swerve_math_demo/static/js/2.0728cefd.chunk.js",
+    "static/js/2.0728cefd.chunk.js.map": "/swerve_math_demo/static/js/2.0728cefd.chunk.js.map",
+    "static/js/3.ace92893.chunk.js": "/swerve_math_demo/static/js/3.ace92893.chunk.js",
+    "static/js/3.ace92893.chunk.js.map": "/swerve_math_demo/static/js/3.ace92893.chunk.js.map",
+    "index.html": "/swerve_math_demo/index.html",
+    "static/css/2.86528fd4.chunk.css.map": "/swerve_math_demo/static/css/2.86528fd4.chunk.css.map",
+    "static/css/main.41a05192.chunk.css.map": "/swerve_math_demo/static/css/main.41a05192.chunk.css.map",
+    "static/js/2.0728cefd.chunk.js.LICENSE.txt": "/swerve_math_demo/static/js/2.0728cefd.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7d4d1e1c.js",
+    "static/css/2.86528fd4.chunk.css",
+    "static/js/2.0728cefd.chunk.js",
+    "static/css/main.41a05192.chunk.css",
+    "static/js/main.6067e5de.chunk.js"
+  ]
+}
