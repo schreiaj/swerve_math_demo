@@ -8,7 +8,7 @@ import { clamp } from "lodash"
 function App() {
 
 
-  const { time:t , start } = useStopwatch()
+  const { time: t, start } = useStopwatch()
   const timeScale = .25
 
   useEffect(() => start(), [start])
@@ -56,7 +56,6 @@ function App() {
     return vec.add(wheels[i], vec.rotate([0, v.v / Math.max(max_v, 1)], v.angle))
   })
 
-
   return (
     <Mafs xAxisExtent={[-5, 5]} yAxisExtent={[-5, 5]}>
       <CartesianCoordinates />
@@ -71,7 +70,7 @@ function App() {
 
       <Point x={-2} y={-2} color="white" />
       <Point x={2} y={-2} color="white" />
-      <Point x={x-2} y={y-2} color="blue" />
+      <Point x={x - 2} y={y - 2} color="blue" />
       {leftStick.element}
       {rightStick.element}
     </Mafs>
